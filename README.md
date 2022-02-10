@@ -1,5 +1,5 @@
 # COUNTERCONNECT
-2021年度 ゲーム大賞 アマチュア部門 作品
+2021年度 ゲーム大賞 アマチュア部門
 
 作品名:「COUNTERCONNECT」
 チーム作品
